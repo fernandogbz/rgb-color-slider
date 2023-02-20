@@ -23,3 +23,8 @@ body {
   justify-items: center;
 }
 
+.wrapper {
+  width: 100%;
+  text-align: center;
+}
+
