@@ -35,3 +35,14 @@ input[type="range"]{
   margin-top: 25px;
 }
 
+span {
+  display: inline-block;
+  text-align: center;
+  margin: 20px 0;
+  background-color: #0075ff;
+  color: #fff;
+  padding: 10px;
+  font-size: 18px;
+  letter-spacing: 0.5px;
+  border-radius: 2px;
+}
